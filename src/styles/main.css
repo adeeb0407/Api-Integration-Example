@@ -1,0 +1,18 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+}
+.user-over-view{
+    width: 50%;
+}
+h2{
+    text-align : center;
+}
+.search-bar{
+    position: fixed;
+    width: 50%;
+}
+.user-card{
+    position: fixed;
+    margin: 5% 0 0 10%;
+}
